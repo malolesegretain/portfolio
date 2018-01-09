@@ -113,7 +113,7 @@ class Portfolio extends Component {
   render () {
     return (
       <div className = "portfolio">
-        <div className = "port-title">My Portfolio (among others...)</div>
+        <div className = "port-title">My Porojects (among others...)</div>
           <div className = "first">
             <span><figure>
               <a href = "https://codepen.io/malo1993/full/xXvBGY/" target="_blank" rel="noopener noreferrer"><img className = "ticTacToe port" src= {ticTacToe} alt ="Malo's Tic-Tac-Toe game"/></a>
